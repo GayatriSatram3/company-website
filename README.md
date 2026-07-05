@@ -22,5 +22,3 @@ A simple responsive company website built with HTML, CSS, and JavaScript.
 Simply open `index.html` in your browser.
 
 Later, this project will be containerized using Docker and automatically deployed to AWS EC2 through Jenkins.
-
-## Testing Pull Request Notification
